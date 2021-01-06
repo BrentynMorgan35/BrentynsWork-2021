@@ -1,0 +1,19 @@
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\bin\Debug\netcoreapp3.1\ASP 019.exe
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\bin\Debug\netcoreapp3.1\ASP 019.deps.json
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\bin\Debug\netcoreapp3.1\ASP 019.runtimeconfig.json
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\bin\Debug\netcoreapp3.1\ASP 019.runtimeconfig.dev.json
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\bin\Debug\netcoreapp3.1\ASP 019.dll
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\bin\Debug\netcoreapp3.1\ASP 019.pdb
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.csprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019_MarkupCompile.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019_MarkupCompile.lref
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.g.resources
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.AssemblyInfoInputs.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.AssemblyInfo.cs
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.dll
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.pdb
+C:\Users\maconrm180\Documents\Brentyns Work 2021\ASP 019\obj\Debug\netcoreapp3.1\ASP 019.genruntimeconfig.cache
