@@ -5,36 +5,42 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CS_ASP_020"
         mc:Ignorable="d"
-        Title="MainWindow" Height="800" Width="1000">
+        Title="MainWindow" Height="800" Width="950">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="0*"/>
         </Grid.RowDefinitions>
-        <Calendar x:Name="calendarLeft" HorizontalAlignment="Left" Margin="429,162,0,0" VerticalAlignment="Top" Height="157" Width="171"/>
-        <Calendar x:Name="calanderReturn" HorizontalAlignment="Left" Margin="429,420,0,0" VerticalAlignment="Top" Height="166" Width="178"/>
-        <Label Content="Driver Info" HorizontalAlignment="Left" Margin="35,56,0,0" VerticalAlignment="Top" Width="110" Height="26"/>
-        <Label Content="Dates Driven" HorizontalAlignment="Left" Margin="429,48,0,0" VerticalAlignment="Top" Width="110" Height="26"/>
-        <Label Content="Date Left" HorizontalAlignment="Left" Margin="429,113,0,0" VerticalAlignment="Top" Height="26" Width="58"/>
-        <Label Content="Date Return" HorizontalAlignment="Left" Margin="429,364,0,0" VerticalAlignment="Top" Height="26" Width="74"/>
-        <Button Content="Print Driver Ticket" HorizontalAlignment="Left" Margin="733,51,0,0" VerticalAlignment="Top" Width="161" Click="Button_Click" Height="19"/>
-        <Label Content="Driver Name" HorizontalAlignment="Left" Margin="35,113,0,0" VerticalAlignment="Top" Height="26" Width="77"/>
-        <TextBox x:Name="driverTextBox" HorizontalAlignment="Left" Height="23" Margin="35,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Social Security" HorizontalAlignment="Left" Margin="35,194,0,0" VerticalAlignment="Top" Height="26" Width="86"/>
-        <TextBox x:Name="socialTextBox" HorizontalAlignment="Left" Height="23" Margin="35,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Phone" HorizontalAlignment="Left" Margin="35,293,0,0" VerticalAlignment="Top" Height="26" Width="43"/>
-        <TextBox x:Name="phoneTextBox" HorizontalAlignment="Left" Height="23" Margin="35,324,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <CheckBox x:Name="fridgeCheck" Content="Refrigerated ($0.12 per Mile)" HorizontalAlignment="Left" Margin="35,378,0,0" VerticalAlignment="Top" Height="35" Width="187"/>
-        <Label Content="Start Miles" HorizontalAlignment="Left" Margin="41,453,0,0" VerticalAlignment="Top" Height="26" Width="66"/>
-        <Label Content="End Miles" HorizontalAlignment="Left" Margin="41,509,0,0" VerticalAlignment="Top" Height="26" Width="61"/>
-        <TextBox x:Name="startMilesTextBox" HorizontalAlignment="Left" Height="23" Margin="112,457,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="endMilesTextBox" HorizontalAlignment="Left" Height="23" Margin="112,513,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label x:Name="tdriverLabel" Content="Driver Name:" HorizontalAlignment="Left" Margin="733,168,0,0" VerticalAlignment="Top" Height="26" Width="192"/>
-        <Label x:Name="tSociallabel" Content="SSN:" HorizontalAlignment="Left" Margin="733,194,0,0" VerticalAlignment="Top" Height="26" Width="192"/>
-        <Label x:Name="tPhoneLabel" Content="Phone Number:" HorizontalAlignment="Left" Margin="733,220,0,0" VerticalAlignment="Top" Height="28" Width="192"/>
-        <Label x:Name="tDaysOutlebel" Content="Total Days Out:" HorizontalAlignment="Left" Margin="733,258,0,0" VerticalAlignment="Top" Height="30" Width="192"/>
-        <Label x:Name="tPayDueLabel" Content="Pay Due:" HorizontalAlignment="Left" Margin="733,288,0,0" VerticalAlignment="Top" Height="22" Width="192"/>
-        <Label x:Name="tVacationLabel" Content="Vacations Days" HorizontalAlignment="Left" Margin="733,310,0,0" VerticalAlignment="Top" Width="192"/>
-        <Label x:Name="tMilesLabel" Content="Total Miles:" HorizontalAlignment="Left" Margin="733,341,0,0" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FFB8EC5E" HorizontalAlignment="Left" Height="626" Margin="657,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="268"/>
+        <Rectangle Fill="#FFA5EEEE" HorizontalAlignment="Left" Height="626" Margin="300,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="341"/>
+        <Rectangle Fill="#FF4DC956" HorizontalAlignment="Left" Height="626" Margin="0,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="278" IsEnabled="False"/>
+        <Calendar x:Name="calendarLeft" HorizontalAlignment="Left" Margin="388,237,0,0" VerticalAlignment="Top" Height="157" Width="171"/>
+        <Calendar x:Name="calanderReturn" HorizontalAlignment="Left" Margin="388,481,0,0" VerticalAlignment="Top" Height="166" Width="178"/>
+        <Label Content="Driver Info" HorizontalAlignment="Left" Margin="37,135,0,0" VerticalAlignment="Top" Width="120" Height="44" FontSize="20"/>
+        <Label Content="Dates Driven" HorizontalAlignment="Left" Margin="413,135,0,0" VerticalAlignment="Top" Width="126" Height="50" FontSize="20"/>
+        <Label Content="Date Left" HorizontalAlignment="Left" Margin="413,193,0,0" VerticalAlignment="Top" Height="33" Width="94" FontSize="20"/>
+        <Label Content="Date Return" HorizontalAlignment="Left" Margin="413,437,0,0" VerticalAlignment="Top" Height="44" Width="130" FontSize="20"/>
+        <Button Content="Print Driver Ticket" HorizontalAlignment="Left" Margin="713,135,0,0" VerticalAlignment="Top" Width="161" Click="Button_Click" Height="19"/>
+        <Label Content="Driver Name" HorizontalAlignment="Left" Margin="37,189,0,0" VerticalAlignment="Top" Height="26" Width="77"/>
+        <TextBox x:Name="driverTextBox" HorizontalAlignment="Left" Height="23" Margin="37,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Social Security" HorizontalAlignment="Left" Margin="37,256,0,0" VerticalAlignment="Top" Height="26" Width="86"/>
+        <TextBox x:Name="socialTextBox" HorizontalAlignment="Left" Height="23" Margin="37,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="37,336,0,0" VerticalAlignment="Top" Height="26" Width="43" RenderTransformOrigin="0.488,0.577"/>
+        <TextBox x:Name="phoneTextBox" HorizontalAlignment="Left" Height="23" Margin="37,367,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <CheckBox x:Name="fridgeCheck" Content="Refrigerated ($0.12 per Mile)" HorizontalAlignment="Left" Margin="37,429,0,0" VerticalAlignment="Top" Height="35" Width="187"/>
+        <Label Content="Start Miles" HorizontalAlignment="Left" Margin="33,484,0,0" VerticalAlignment="Top" Height="26" Width="66"/>
+        <Label Content="End Miles" HorizontalAlignment="Left" Margin="33,560,0,0" VerticalAlignment="Top" Height="26" Width="61" RenderTransformOrigin="0.426,0.462"/>
+        <TextBox x:Name="startMilesTextBox" HorizontalAlignment="Left" Height="23" Margin="104,484,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="endMilesTextBox" HorizontalAlignment="Left" Height="23" Margin="104,563,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="tdriverLabel" Content="Driver Name:" HorizontalAlignment="Left" Margin="713,171,0,0" VerticalAlignment="Top" Height="26" Width="192"/>
+        <Label x:Name="tSociallabel" Content="SSN:" HorizontalAlignment="Left" Margin="713,225,0,0" VerticalAlignment="Top" Height="26" Width="192"/>
+        <Label x:Name="tPhoneLabel" Content="Phone Number:" HorizontalAlignment="Left" Margin="713,292,0,0" VerticalAlignment="Top" Height="28" Width="192"/>
+        <Label x:Name="tDaysOutlebel" Content="Total Days Out:" HorizontalAlignment="Left" Margin="713,349,0,0" VerticalAlignment="Top" Height="30" Width="192"/>
+        <Label x:Name="tPayDueLabel" Content="Pay Due:" HorizontalAlignment="Left" Margin="713,423,0,0" VerticalAlignment="Top" Height="22" Width="192"/>
+        <Label x:Name="tVacationLabel" Content="Vacations Days" HorizontalAlignment="Left" Margin="713,492,0,0" VerticalAlignment="Top" Width="192"/>
+        <Label x:Name="tMilesLabel" Content="Total Miles:" HorizontalAlignment="Left" Margin="713,560,0,0" VerticalAlignment="Top"/>
+
+
+
     </Grid>
 </Window>
