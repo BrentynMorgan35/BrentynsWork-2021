@@ -1,0 +1,15 @@
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\bin\Debug\CS_ASP_025.exe.config
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\bin\Debug\CS_ASP_025.exe
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\bin\Debug\CS_ASP_025.pdb
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.csprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\MainWindow.g.cs
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\App.g.cs
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025_MarkupCompile.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025_MarkupCompile.lref
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\MainWindow.baml
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.g.resources
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.Properties.Resources.resources
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.csproj.GenerateResource.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.exe
+C:\Users\maconrm180\Documents\Brentyns Work 2021\CS_ASP_025\obj\Debug\CS_ASP_025.pdb
