@@ -1,0 +1,13 @@
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\bin\Debug\netcoreapp3.1\CS_ASP_30Practice.exe
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\bin\Debug\netcoreapp3.1\CS_ASP_30Practice.deps.json
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\bin\Debug\netcoreapp3.1\CS_ASP_30Practice.runtimeconfig.json
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\bin\Debug\netcoreapp3.1\CS_ASP_30Practice.runtimeconfig.dev.json
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\bin\Debug\netcoreapp3.1\CS_ASP_30Practice.dll
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\bin\Debug\netcoreapp3.1\CS_ASP_30Practice.pdb
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.csprojAssemblyReference.cache
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.AssemblyInfoInputs.cache
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.AssemblyInfo.cs
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.csproj.CoreCompileInputs.cache
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.dll
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.pdb
+C:\Users\brent\Documents\C# work 2020\CS_ASP_30Practice\CS_ASP_30Practice\obj\Debug\netcoreapp3.1\CS_ASP_30Practice.genruntimeconfig.cache
